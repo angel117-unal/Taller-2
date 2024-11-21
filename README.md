@@ -1,8 +1,8 @@
 # Taller de Autómatas Celulares
 
 ### Presentado por:
-- **Ángel [Tu Apellido]**
-- **Daniel [Apellido de tu compañero]**
+- **Ángel Rivera Amortegui**
+- **Daniel Echeverry Jimenez**
 
 ---
 
