@@ -31,6 +31,6 @@ Descripción: Se imprime un Autómata Celular 1D (Regla 30) utilizando una impre
 ---
 
 ### Notas adicionales:
-Este repositorio contiene la resolución de los puntos del taller de autómatas celulares, integrando programación, modelos matemáticos, y visualización en mapas.
+Este repositorio contiene la resolución de los puntos del taller 2 acerca de autómatas celulares.
 
 
