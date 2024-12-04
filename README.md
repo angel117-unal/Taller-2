@@ -10,6 +10,7 @@
 Archivo: [Automatas celulares taller 2.docx](./Automatas%20celulares%20taller%202.docx)  
 Descripción: Para este punto, analizamos los comportamientos en tres lugares cotidianos diferentes: en la casa, en la universidad y durante el transporte. Este algoritmo observa los patrones de comportamiento y define las reglas básicas para cada escenario. Estas reglas reflejan aspectos clave como rutinas diarias, interacciones y normas sociales específicas para cada uno de los tres lugares.
 
+
 ---
 
 ## **Punto 2: Diagrama de Voronoi para los restaurantes de Zipaquirá**
@@ -28,6 +29,7 @@ Archivos:
 - [rule30.gcode](./rule30.gcode)  
 - [Autómata_celular_para_imprimir_en_3D.ipynb](./3d.ipynb)  
 Descripción: Este programa genera un autómata celular unidimensional (Regla 30) y lo convierte en un archivo `.gcode` para impresión 3D. El modelo físico permite visualizar la evolución de un sistema dinámico basado en reglas simples en un formato tangible, destacando patrones emergentes. Adicionalmente se crea un algoritmo que permite visualizar el autómata celular en 3D para su respectiva impresión.
+
 
 ---
 
