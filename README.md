@@ -24,7 +24,9 @@ Descripción: Este algoritmo simula la propagación de un incendio forestal util
 ---
 
 ## **Punto 4: AC 1D en impresora 3D**
-Archivo: [rule30.gcode](./rule30.gcode)  
+Archivos:  
+- [rule30.gcode](./rule30.gcode)  
+- [Autómata_celular_para_imprimir_en_3D.ipynb](./Aut%C3%B3mata_celular_para_imprimir_en_3D.ipynb)  
 Descripción: Este programa genera un autómata celular unidimensional (Regla 30) y lo convierte en un archivo `.gcode` para impresión 3D. El modelo físico permite visualizar la evolución de un sistema dinámico basado en reglas simples en un formato tangible, destacando patrones emergentes. Adicionalmente se crea un algoritmo que permite visualizar el autómata celular en 3D para su respectiva impresión.
 
 ---
