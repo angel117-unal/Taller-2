@@ -34,6 +34,10 @@ Descripción: Este programa genera un autómata celular unidimensional (Regla 30
 Archivo: -[Triángulo_de_Sierpiński.ipynb](./Triángulo_de_Sierpiński.ipynb)
 Descripción: Este algoritmo genera el Triángulo de Sierpinski utilizando autómatas celulares. A partir de una configuración inicial simple, las células evolucionan según reglas específicas para formar un patrón fractal característico de este triángulo. El algoritmo simula el comportamiento de las células que se activan de acuerdo con su vecindad, y, a medida que avanza el proceso, se obtiene la representación gráfica del Triángulo de Sierpinski.
 
+## **Punto 6: Simulación de Movimiento de Grano en un Tambor usando un Autómata Celular (Proyecto máquina despulpadora de café)**
+Archivo: -[AC_máquina_despulpadora_de_café.ipynb](./AC_máquina_despulpadora_de_café.ipynb)
+Descripción: Este algoritmo genera el Triángulo de Sierpinski utilizando autómatas celulares. A partir de una configuración inicial simple, las células evolucionan según reglas específicas para formar un patrón fractal característico de este triángulo. El algoritmo simula el comportamiento de las células que se activan de acuerdo con su vecindad, y, a medida que avanza el proceso, se obtiene la representación gráfica del Triángulo de Sierpinski.
+
 ---
 
 ### Notas adicionales:
