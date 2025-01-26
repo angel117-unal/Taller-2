@@ -31,7 +31,7 @@ Archivos:
 Descripción: Este programa genera un autómata celular unidimensional (Regla 30) y lo convierte en un archivo `.gcode` para impresión 3D. El modelo físico permite visualizar la evolución de un sistema dinámico basado en reglas simples en un formato tangible, destacando patrones emergentes. Adicionalmente se crea un algoritmo que permite visualizar el autómata celular en 3D para su respectiva impresión.
 
 ## **Punto 5: Generación del Triángulo de Sierpinski mediante autómatas celulares (Punto de investigación adicional)**
-Archivo: - [Triángulo_de_Sierpiński.ipynb]
+Archivo: - [Triángulo_de_Sierpiński](.ipynb)
 Descripción: Este algoritmo genera el Triángulo de Sierpinski utilizando autómatas celulares. A partir de una configuración inicial simple, las células evolucionan según reglas específicas para formar un patrón fractal característico de este triángulo. El algoritmo simula el comportamiento de las células que se activan de acuerdo con su vecindad, y, a medida que avanza el proceso, se obtiene la representación gráfica del Triángulo de Sierpinski.
 
 ---
