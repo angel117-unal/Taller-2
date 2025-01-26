@@ -36,7 +36,8 @@ Descripción: Este algoritmo genera el Triángulo de Sierpinski utilizando autó
 
 ## **Punto 6: Simulación de Movimiento de Grano en un Tambor usando un Autómata Celular (Proyecto máquina despulpadora de café)**
 Archivo: -[AC_máquina_despulpadora_de_café.ipynb](./AC_máquina_despulpadora_de_café.ipynb)
-Descripción: Este algoritmo genera el Triángulo de Sierpinski utilizando autómatas celulares. A partir de una configuración inicial simple, las células evolucionan según reglas específicas para formar un patrón fractal característico de este triángulo. El algoritmo simula el comportamiento de las células que se activan de acuerdo con su vecindad, y, a medida que avanza el proceso, se obtiene la representación gráfica del Triángulo de Sierpinski.
+Descripción: Este código simula el movimiento de un grano de café dentro de un tambor, modelado como un autómata celular unidimensional. El tambor se representa como un arreglo de 20 posiciones, donde un 1 indica la presencia del grano y un 0 representa un espacio vacío.
+El grano inicia en una posición específica y se mueve hacia la derecha a una velocidad definida. En cada iteración, se actualiza la posición del grano utilizando una función que asegura que no exceda los límites del tambor. Además, se incluye una visualización del estado del tambor en cada paso, con O representando el grano y . los espacios vacíos. Esto se acompaña de una pausa para observar el movimiento en tiempo real.
 
 ---
 
