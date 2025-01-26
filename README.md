@@ -20,9 +20,8 @@ Descripción: En este algoritmo utilizamos el concepto aplicado de un diagrama d
 ---
 
 ## **Punto 3: Incendio forestal utilizando ACs probabilísticos**
-Archivo: [Ac_probabilisticos_incendio_forestal.ipynb](./Ac_probabilisticos_incendio_forestal.ipynb)  
-Descripción: Este algoritmo simula la propagación de un incendio forestal utilizando el concepto de autómatas celulares probabilísticos vistos en clase. Cada célula representa un estado del terreno (por ejemplo, quemado, en llamas o no afectado), y las reglas probabilísticas determinan la propagación del fuego según las condiciones vecinas. 
----
+Archivo: [Ac_probabilisticos_incendio_forestal.ipynb](./Ac_probabilisticos_incendio_forestal.ipynb)
+Descripción:  Este algoritmo simula la propagación de un incendio forestal utilizando el concepto de autómatas celulares probabilísticos vistos en clase. Cada célula representa un estado del terreno (por ejemplo, quemado, en llamas o no afectado), y las reglas probabilísticas determinan la propagación del fuego según las condiciones vecinas.
 
 ## **Punto 4: AC 1D en impresora 3D**
 Archivos:  
